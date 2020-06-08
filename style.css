@@ -322,6 +322,7 @@ nav {
     background-color: var(--special-color);
     color: white;
     border: none;
+    cursor: pointer;
 }
 
 /* FOOTER */
